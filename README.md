@@ -22,7 +22,7 @@ _Other:_
 [![](https://visitcount.itsvg.in/api?id=KhomenkoVitalii&icon=1&color=9)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VitaliiKhomenko) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://patreon.com/KhomenkoVitalii) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/KhomenkoVitalii) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

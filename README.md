@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br><br>I am a highly motivated and ambitious Back-End developer with a passion for creating user-friendly and business-valuable web solutions. <br>I possess strong logical thinking and analytical skills, which enable me to tackle complex challenges with ease. My effective communication skills allow me to collaborate seamlessly with teams, <br>ensuring successful project outcomes.<br><br>🔭 I’m currently working on freelance<br>🌱 I’m currently learning Docker
+Hi there!<br><br>I am a highly motivated and ambitious Back-End developer with a passion for creating user-friendly and business-valuable web solutions. <br>I possess strong logical thinking and analytical skills, which enable me to tackle complex challenges with ease. My effective communication skills allow me to collaborate seamlessly with teams, <br>ensuring successful project outcomes.<br>🌱 I’m currently learning Docket, AWS and React
 
 
 ## 🌐 Socials:
@@ -20,9 +20,9 @@ _Other:_
 --
 ---
 [![](https://visitcount.itsvg.in/api?id=KhomenkoVitalii&icon=1&color=9)](https://visitcount.itsvg.in)
-
+<!--
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/KhomenkoVitalii) 
-
+-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
